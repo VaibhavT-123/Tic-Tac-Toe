@@ -120,3 +120,26 @@ h1:hover{
     gap: 0.5rem;
     margin-left: -21rem
 }
+@media screen and (max-width:980px) {
+
+    #msg{
+        font-size: 1rem;
+        font-size: 3rem;
+    }
+    .box{
+        width: 100px;
+        height: 100px;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    .reset-button{
+        padding: 10px 25px;
+        font-size: 1.3rem;
+    }
+    .new-button{
+        padding: 10px 25px;
+        font-size: 1.3rem;
+    }
+
+}
